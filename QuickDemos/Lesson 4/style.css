@@ -1,0 +1,4 @@
+.gray-border { 
+    border: 10px solid gray;
+    border-radius: 30px;
+}
