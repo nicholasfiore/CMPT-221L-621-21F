@@ -9,3 +9,7 @@ function changeBorderColor () {
 // while (true) {
 //     alertPeople();
 // }
+
+fetch("https://randomuser.me/api/").then(function (response) {
+    console.log(response);
+});

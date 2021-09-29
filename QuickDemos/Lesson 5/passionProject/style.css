@@ -1,0 +1,122 @@
+body {
+    background: #FAEBCC;
+    font-size: 1.75rem;
+    padding-top: 60px;
+}
+
+#mainNavbar .navbar-brand {
+    font-family: 'Lobster', cursive;
+    font-size: 2.5rem;
+    rotate: -5deg;
+    color: #6C86AD;
+}
+
+#mainNavbar .nav-link {
+    color: #7e7e7e;
+    font-family: 'Dosis', sans-serif;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #B4FAD8;
+
+}
+
+p {
+    color: #7e7e7e;
+    font-family: 'Dosis', sans-serif;
+    font-size: 2.5rem;
+}
+
+i {
+    color: #7e7e7e;
+    font-size: 2.5rem;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    color: #7e7e7e;
+    rotate: -5deg;
+}
+
+h2 {
+    color: #7e7e7e;
+    font-family: 'Dosis', sans-serif;
+    font-size: 2.5rem;
+}
+
+.navbar.scrolled {
+    background: #ffffff;
+    transition: background 300ms;
+}
+
+img {
+    object-fit: cover;
+    /* width:230px;
+    height:230px; */
+}
+
+span {
+    color: #6C86AD;
+}
+
+/* body {
+    background: #f5d9df;
+    font-family: "Dosis"
+}
+
+.blurb h2 {
+    color: #EA1C2C;
+    font-weight: 100;
+    font-size: 2.5rem;
+}
+
+.blurb p {
+    color: #f498b8;
+    font-weight: 100;
+    font-size: 1.25rem;
+    line-height: 2.0;
+}
+
+.content {
+    margin-top: 100px;
+    margin-bottom: 100px
+}
+
+#headingGroup span{
+    color: #EA1C2C;
+}
+
+#headingGroup h1{
+    font-weight: 100;
+    font-size: 4rem;
+}
+
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+#mainNavbar .nav-link {
+    color: white;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #EA1C2C;
+}
+
+#mainNavbar .navbar-brand {
+    color: #EA1C2C;
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+.navbar.scrolled {
+    background: rgb(222, 192, 222);
+    transition: background 300ms;
+}
+
+@media (max-width: 1200px) {
+    #headingGroup h1{
+        font-size: 3rem;
+    }
+} */
