@@ -1,7 +1,7 @@
 body {
     background-color: rgb(240, 240, 240) !important;
-    border-left: 200px groove rgb(134, 134, 134);
-    border-right: 200px ridge rgb(134, 134, 134);
+    border-left: 100px groove rgb(134, 134, 134);
+    border-right: 100px ridge rgb(134, 134, 134);
     padding: 0%;
 }
 
@@ -35,17 +35,20 @@ img.ad {
 
 h1 {
     font-family: 'Oswald', sans-serif;
-    font-size: 32px;
+    font-size: 2.5rem !important;
     font-weight: bold;
     text-transform: uppercase;
     color: #000000;
-    margin-top: 1%
+    margin-top: 1%;
+    float: left;
 }
 
 h4 {
     font-family: 'Oswald', sans-serif;
     font-weight: 400;
+    padding-top: 2%;
     padding-left: 2.5%;
+    float: left;
 }
 
 p.username {
@@ -111,7 +114,8 @@ div.navbar {
     text-transform: uppercase;
     font-size: 1.25rem !important;
     cursor: pointer;
-    display: inline-block;
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
 
 .btn:hover {
