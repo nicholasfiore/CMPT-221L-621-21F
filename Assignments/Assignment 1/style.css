@@ -1,0 +1,120 @@
+body {
+    background-color: rgb(240, 240, 240) !important;
+    border-left: 200px groove rgb(134, 134, 134);
+    border-right: 200px ridge rgb(134, 134, 134);
+    padding: 0%;
+}
+
+footer {
+    background-color: white;
+    text-align: center;
+}
+
+img.logo {
+    float: left;
+    width: 5%;
+    margin: 0.5%;
+}
+
+img.profile {
+    float: left;
+    width: 65px;
+    margin: 1%;
+    border: 2px solid rgb(80, 80, 80);
+}
+
+img.embed {
+    width: 100%;
+    margin-bottom: 1.5%;
+}
+
+img.ad {
+    margin: 5%;
+    width: 85%;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #000000;
+    margin-top: 1%
+}
+
+h4 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    padding-left: 2.5%;
+}
+
+p.username {
+    font-size: 1.1rem;
+    font-weight: bold;
+    padding-top: 1%;
+    margin: 0;
+}
+
+p.timestamp {
+    font-size: 0.9rem;
+    margin-bottom: 0%;
+}
+
+p.title {
+    font-size: 0.9rem;
+    font-weight: bold;
+    color: rgb(99, 99, 99);
+    margin: 0%;
+}
+
+p.body {
+    font-family: Helvetica, sans-serif;
+    padding-left: 10%;
+}
+
+#head {
+    color: #ff9a00
+}
+
+div.col-8 {
+    border-width: 1px;
+    border-color: rgb(192, 192, 192);
+    border-style: solid;
+    background-color: gainsboro;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+div.reply {
+    background-color: rgb(192, 192, 192);
+    border-width: 1px;
+    border-color: rgb(173, 173, 173);
+    border-style: solid;
+    margin: 1%
+}
+
+div.header {
+    padding-bottom: 0.25%;
+    padding-top: 0.25%;
+    background-color: white;
+}
+
+div.navbar {
+    margin-left: 70%;
+    margin-right: 5%;
+}
+
+.btn {
+    border: none;
+    background-color: inherit;
+    font-family: "Oswald", sans-serif;
+    text-transform: uppercase;
+    font-size: 1.25rem !important;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.btn:hover {
+    background: #eee;
+    color: #0065ff !important;
+}
