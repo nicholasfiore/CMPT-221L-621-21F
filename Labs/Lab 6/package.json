@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14"
+  },
+  "name": "lab-6",
+  "description": "I need you to make sure that you understand how to make a post request. So for this lab I want to make sure you do the following:",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "author": "",
+  "license": "ISC"
+}
