@@ -7,7 +7,7 @@ router.get("/person", function (req, res) {
 })
 
 router.post("/person", function (req, res) {
-    
+    console.log(req.body.newUser.firstName + " " + req.body.newUser.lastName);
     Person.create(req.body.person, function (err, person) {
         if (err) {
             console.error(err);

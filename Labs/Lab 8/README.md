@@ -1,4 +1,4 @@
-# Lab 7
+# Lab 8
 
 I want you to be able to connect to a database using MongoDB Connect. So for this lab I want to make sure you do the following:
 
