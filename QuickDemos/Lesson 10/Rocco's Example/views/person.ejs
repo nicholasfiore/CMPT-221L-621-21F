@@ -1,0 +1,9 @@
+<%- include('./partials/header.ejs') %>
+<h1>Person</h1>
+
+<form action="/person/person" method="post">
+<input type="text" name="person[firstName]" id="">
+<input type="text" name="person[lastName]" id="">
+<input type="submit" value="Click me">
+</form>
+<%- include('./partials/footer.ejs') %>
