@@ -4,3 +4,4 @@ We talked about the steps that we could possibly take to deploy a website. I wan
 
 <!-- Answer Down Here -->
 
+If I could, I first of all would like to host the site myself. Using myself as a host gives me the most control over my website, and allows me to use it for nearly anything I might want. While it is more difficult due to also needing to be responsible for preventing attacks and similar situations, it definitely gives me the freedom I'd want for a site. If I were to use a hosting service, though, I'd likely use one of the ones like Heroku that have free tiers, and definitely would use docker to containerize the site for it. Lastly if I were to get a web certificate, I'd probably try and go the free route to minimize costs and such, if I can. Of course for my domain name I'd simply try and find the lowest cost from whatever website is selling them.
